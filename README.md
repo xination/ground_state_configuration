@@ -1,1 +1,2 @@
 # ground_state_configuration
+This project is for building a very simply tool to show a ground state configuration of a nucleus from the shell model perspective. you should be careful, it program only fill the shells by nucleons from the bottom-up (up to the 1p3/2 orbit). The nuclei in the regions of 'island of inversion' have intruder configurations as their dominant configuration( such as 11Li, 31Na, 32Mg, and more), and hence this program can not reflect these nuclei correctly.
